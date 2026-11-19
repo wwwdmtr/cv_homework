@@ -1,0 +1,56 @@
+{
+  "SuperPoint": {
+    "curtain": {
+      "keypoints": 2,
+      "matches": 0,
+      "inliers": 0
+    },
+    "laptop": {
+      "keypoints": 52,
+      "matches": 13,
+      "inliers": 0
+    },
+    "monitor": {
+      "keypoints": 60,
+      "matches": 25,
+      "inliers": 1
+    },
+    "shelf": {
+      "keypoints": 94,
+      "matches": 63,
+      "inliers": 33
+    },
+    "slatted_partition": {
+      "keypoints": 66,
+      "matches": 16,
+      "inliers": 3
+    }
+  },
+  "SIFT": {
+    "curtain": {
+      "keypoints": 11,
+      "matches": 3,
+      "inliers": 0
+    },
+    "laptop": {
+      "keypoints": 140,
+      "matches": 52,
+      "inliers": 0
+    },
+    "monitor": {
+      "keypoints": 108,
+      "matches": 43,
+      "inliers": 6
+    },
+    "shelf": {
+      "keypoints": 144,
+      "matches": 67,
+      "inliers": 37
+    },
+    "slatted_partition": {
+      "keypoints": 158,
+      "matches": 60,
+      "inliers": 4
+    }
+  }
+}

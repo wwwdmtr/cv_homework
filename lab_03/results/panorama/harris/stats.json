@@ -1,0 +1,44 @@
+{
+  "detector": "harris",
+  "scale": 0.4,
+  "focal": 0.8,
+  "projection": "cylindrical",
+  "keypoints": [
+    {
+      "image": "01.jpg",
+      "count": 1393
+    },
+    {
+      "image": "02.jpg",
+      "count": 333
+    },
+    {
+      "image": "03.jpg",
+      "count": 549
+    },
+    {
+      "image": "04.jpg",
+      "count": 1813
+    }
+  ],
+  "pairs": [
+    {
+      "first": 0,
+      "second": 1,
+      "matches": 41,
+      "inliers": 20
+    },
+    {
+      "first": 1,
+      "second": 2,
+      "matches": 105,
+      "inliers": 76
+    },
+    {
+      "first": 2,
+      "second": 3,
+      "matches": 234,
+      "inliers": 182
+    }
+  ]
+}

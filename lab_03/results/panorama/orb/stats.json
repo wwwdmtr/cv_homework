@@ -1,0 +1,44 @@
+{
+  "detector": "orb",
+  "scale": 0.4,
+  "focal": 0.8,
+  "projection": "cylindrical",
+  "keypoints": [
+    {
+      "image": "01.jpg",
+      "count": 2849
+    },
+    {
+      "image": "02.jpg",
+      "count": 2760
+    },
+    {
+      "image": "03.jpg",
+      "count": 2933
+    },
+    {
+      "image": "04.jpg",
+      "count": 2930
+    }
+  ],
+  "pairs": [
+    {
+      "first": 0,
+      "second": 1,
+      "matches": 170,
+      "inliers": 84
+    },
+    {
+      "first": 1,
+      "second": 2,
+      "matches": 364,
+      "inliers": 314
+    },
+    {
+      "first": 2,
+      "second": 3,
+      "matches": 760,
+      "inliers": 674
+    }
+  ]
+}

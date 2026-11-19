@@ -1,0 +1,26 @@
+{
+  "source1_frames": 289,
+  "source2_frames": 294,
+  "fps": 30.0,
+  "processed_pairs": 49,
+  "step": 6,
+  "offset": 0,
+  "processing_width": 640,
+  "processing_height": 360,
+  "methods": {
+    "SuperPoint": {
+      "kp1": 379.57142857142856,
+      "kp2": 380.3673469387755,
+      "matches": 132.89795918367346,
+      "inliers": 43.10204081632653,
+      "ratio": 0.32432432432432434
+    },
+    "SIFT": {
+      "kp1": 672.7755102040817,
+      "kp2": 745.204081632653,
+      "matches": 265.18367346938777,
+      "inliers": 50.91836734693877,
+      "ratio": 0.19201169770663382
+    }
+  }
+}
